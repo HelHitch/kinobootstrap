@@ -83,6 +83,45 @@ a:hover {
   background-color: black;
 }
 
+.thumb {
+  margin-right: 5px;
+  size: 120%;
+  display: inline-block;
+  justify-content: space-evenly;
+}
+
+.list-group-item {
+  color: #8a6d3b;
+  background-color: #f9f9f9;
+}
+
+.list-group {
+  flex-direction: row;
+}
+
+textarea.form-control {
+  height: 200px;
+}
+
+.panel-heading > i {
+  margin-right: 5px;
+}
+
+.info-block {
+  font-size: 110%;
+}
+.info-block .bage {
+  font-size: 80%;
+}
+
+.info-block span {
+  margin-right: 3%;
+}
+
+.well-color {
+  background-color: #1422;
+}
+
 .footer {
   color: #666;
   background-color: #222;
